@@ -30,10 +30,14 @@ Divide and Conquer is a fundamental algorithm design paradigm. While powerful, i
 
 ## 🔢 Algorithms Visualized
 The platform focuses on classic Divide and Conquer implementations:
-* **Merge Sort:** Visualizing the recursive splitting and sorted merging process.
-* **Quick Sort:** Highlighting pivot selection and partitioning logic.
-* **Binary Search:** Demonstrating how search space is halved at every iteration.
-* **Closest Pair of Points:** (Coming Soon / Included) Solving geometric problems efficiently.
+* **Merge Sort:** Visualizing the recursive splitting of data into single-element units and the subsequent sorted merging process.
+* **Quick Sort:** Highlighting pivot selection, the partitioning logic, and how the array is sorted in-place without extra memory.
+* **Matrix Multiplication (D&C):** Demonstrating the standard recursive approach by partitioning large matrices into four sub-matrices for processing.
+* **Strassen's Multiplication:** Visualizing an optimized matrix multiplication that reduces recursive calls from 8 to 7 using algebraic identities.
+* **Min and Max Finding:** Showcasing how to find the minimum and maximum elements in an array simultaneously by splitting the search space.
+* **Largest Subarray Sum:** Implementing Kadane’s logic via Divide and Conquer to find the contiguous subarray with the largest sum.
+* **Closest Pair of Points:** Solving geometric problems efficiently by splitting planes and checking for the smallest distance across a dividing "strip."
+* **Convex Hull:** Visualizing the "Divide and Conquer" approach to finding the smallest convex polygon that encloses a set of points.
 
 ## 🛠 Tech Stack
 * **Frontend:** [React.js](https://reactjs.org/) / [Next.js](https://nextjs.org/)
