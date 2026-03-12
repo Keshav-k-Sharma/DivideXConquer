@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef } from 'react'
 import { generateMergeSortSteps } from '../../../lib/algorithms/mergeSort'
-import MergeSortViz from '../../../components/visualizers/MergeSort'
+import MergeSortViz from '../../../components/visualizers/mergeSort'
 
 const DEFAULT_ARRAY = [38, 27, 43, 3, 9, 82, 10]
 
