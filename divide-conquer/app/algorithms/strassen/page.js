@@ -27,7 +27,7 @@ export default function StrassenPage() {
     <div className="max-w-4xl mx-auto px-6 py-12">
       <div className="mb-8">
         <a href="/" className="text-muted text-sm font-mono hover:text-accent mb-4 block">← back</a>
-        <h1 className="font-display text-4xl font-extrabold text-cyan mb-2">Strassen's Algorithm</h1>
+        <h1 className="font-display text-4xl font-extrabold text-cyan mb-2">Strassen&apos;s Algorithm</h1>
         <p className="text-muted text-sm">Faster matrix multiplication using only 7 recursive multiplications instead of 8.</p>
       </div>
 
