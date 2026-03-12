@@ -1,4 +1,4 @@
-# DivideXConquer# ⚔️ DivideXConquer
+# ⚔️ DivideXConquer
 
 **DivideXConquer** is an interactive web-based algorithm visualizer designed to demystify the "Divide and Conquer" paradigm. This tool provides a step-by-step visual representation of how complex problems are recursively broken down into manageable sub-problems, solved, and seamlessly combined.
 
